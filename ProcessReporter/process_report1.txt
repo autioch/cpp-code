@@ -1,0 +1,32 @@
+19:55:13
+
+[System Process]		0	1	0
+System		4	79	0
+smss.exe		608	3	4
+csrss.exe		672	12	608
+winlogon.exe		696	19	608
+services.exe		740	15	696
+lsass.exe		752	20	696
+svchost.exe		904	16	740
+svchost.exe		1004	7	740
+svchost.exe		1044	54	740
+svchost.exe		1184	6	740
+svchost.exe		1272	13	740
+explorer.exe		1436	10	1408
+AvastSvc.exe		1696	50	740
+spoolsv.exe		388	10	740
+jqs.exe		520	5	740
+AvastUI.exe		1468	13	1436
+alg.exe		1600	6	740
+TSVNCache.exe		1608	8	1436
+menu.exe		200	1	1436
+svchost.exe		3412	8	740
+netbeans.exe		2252	32	200
+opera.exe		3016	11	200
+TOTALCMD.EXE		3760	5	1436
+cmd.exe		560	1	2252
+sh.exe		444	4	560
+sh.exe		3388	2	3132
+processreporter.exe		2096	1	3388
+notepad++.exe		2788	2	3760
+taskmgr.exe		408	3	1436

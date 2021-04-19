@@ -1,0 +1,3 @@
+cpu 1 0
+autor 0 0
+Jakub 0 1
